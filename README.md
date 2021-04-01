@@ -1,2 +1,2 @@
-# Chapter-21
-Bounce Off and Collision
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
